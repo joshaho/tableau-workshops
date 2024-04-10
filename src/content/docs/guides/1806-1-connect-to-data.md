@@ -27,10 +27,7 @@ To get started:
 
 ## 📝 Instructions
 
-* **Step 1 –** Create **one** Input Step for Orders that unions all 3 of the orders files. Use File Filters and syntax matching to bring in only the Orders files and not the Shipping file for the Orders Input Step. The files are in a folder called *'Data Sources'* on the desktop of your machine. 
-
-[How to create a file input and union](../../src/assets/gifs/1.1-union.gif)
-
+* **[Step 1](/../../reference/step1sol) –** Create **one** Input Step for Orders that unions all 3 of the orders files. Use File Filters and syntax matching to bring in only the Orders files and not the Shipping file for the Orders Input Step. The files are in a folder called *'Data Sources'* on the desktop of your machine. 
 
 * **Step 2 –** On the Orders Input Step, add a relative date filter to the Order Date field that brings in only the data from the year 2023.
 
