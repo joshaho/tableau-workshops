@@ -12,43 +12,27 @@ description: Next Level Data Preparation
 
 [Tableau Documentation - Clean and Shape Data](https://help.tableau.com/current/prep/en-us/prep_clean.htm)
 
-
-
 ## 📝 Clean The Data
 
 Now that you’ve brought data into the flow, you need to clean it before you can transform and combine it. In this exercise, you will explore your data in the Profile Pane and use pre-built cleaning options to correct string formatting issues.
 
 Please follow these steps for Exercise 2:
 
+* **[Step 1](/../../reference/e2s1sol) –** Add a Clean Step after the Orders Input step.
 
+* **[Step 2](/../../reference/e2s2sol) –** On the Orders Clean Step, remove the question marks (?) and exclamation points (!) from values in the Sub-Category field by using the Remove Punctuation option.
 
-* **Step 1 –** Add a Clean Step after the Orders Input step.
+* **[Step 3](/../../reference/e2s1sol) –** Add a Clean Step after the Shipping Input Step.
 
-    >[!hint][How to add a clean step](instructions258460/2024-04-02_16-31-59.gif)
+* **[Step 4](/../../reference/e2s4sol)–** On the Shipping Clean Step, group the Shipping Status field by Spelling to correct the rows where Ordered and Shipped are misspelled.
 
-* **Step 2 –** On the Orders Clean Step, remove the question marks (?) and exclamation points (!) from values in the Sub-Category field by using the Remove Punctuation option.
-
-    >[!hint][How to add a clean step](instructions258460/2024-04-02_16-34-29.gif)
-
-* **Step 3 –** Add a Clean Step after the Shipping Input Step.
-
-    >[!hint][How to add a clean step](instructions258460/2024-04-02_16-38-47.gif)
-
-
-* **Step 4–** On the Shipping Clean Step, group the Shipping Status field by Spelling to correct the rows where Ordered and Shipped are misspelled.
-
-    >[!hint][How to add a clean step](instructions258460/2024-04-02_16-40-28.gif)
-
-
-* [ ] My data is polished and ready to be transformed!
-
->[!note]**🔥 HOT Tip 🔥 –** be kind to your future self; Prep lets you leave notes and descriptions on each of the steps in the flow, *and* on each change within a single step so you can look back later.
-
+:::tip[**🔥 HOT Tip 🔥**]
+be kind to your future self; Prep lets you leave notes and descriptions on each of the steps in the flow, *and* on each change within a single step so you can look back later.
+:::
 
 ## **Optional Challenge**
 
 Try out a few other cleaning functions:
-
 
 * Use the ‘Split Values’ cleaning function on the ‘Product ID’ field to test out splitting on a delimiter.
 * Use the ‘Make Uppercase’ option to make all three values in the ‘Segment’ field uppercase (found by going to More Options […] and then choosing ‘Clean’).

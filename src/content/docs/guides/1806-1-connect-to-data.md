@@ -32,5 +32,3 @@ To get started:
 * **[Step 2](/../../reference/e1s2sol) –** On the Orders Input Step, add a relative date filter to the Order Date field that brings in only the data from the year 2023.
 
 * **[Step 3](/../../reference/e1s3sol) –** Create an Input Step for the shipping file. You do not need to make any changes to this Input Step.
-
-    >[!hint][How to add in a single file input]

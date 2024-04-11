@@ -1,5 +1,5 @@
 ---
-title: How to add in a single file input
+title: Add a single file input
 description: Exercise 1.3 Solution
 ---
 

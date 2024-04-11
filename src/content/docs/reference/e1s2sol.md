@@ -1,5 +1,5 @@
 ---
-title: How to create a relative date filter
+title: Create a relative date filter
 description: Exercise 1.2 Solution
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: How to create a file input and union
+title: Create a file input and union
 description: Exercise 1.1 Solution
 ---
 
