@@ -55,4 +55,5 @@ From there, you will join your Orders and Shipping data together into one unifie
 
 * **[Step 1](/../../reference/e3s3sol) –** Inner Join the Orders to the Shipping data by clicking on the Orders Clean Step, dragging and hovering it over the Shipping Pivot step, and dropping it onto the ‘Join’ box when it appears. Your join will be done on the Order ID field.
 
->[!note]**🔥 HOT Tip 🔥 –** Push Cross-Database joins or unions **later** in your flows. This often helps reduce the number of rows / columns needing to be joined, and when using a database will leverage the databases query ability where possible.
+:::note[**🔥 HOT Tip 🔥 –**]
+Push Cross-Database joins or unions **later** in your flows. This often helps reduce the number of rows / columns needing to be joined, and when using a database will leverage the databases query ability where possible.:::
