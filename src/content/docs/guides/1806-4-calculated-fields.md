@@ -26,7 +26,7 @@ description: Next Level Data Preparation
     * Running calculation aggregator should be 'SUM'
   :::
 
-* **[Step 3](/../../reference/e4s2sol) –** Add a Clean Step after your Join Step. Name this step 'Window Calculation'.
+* **[Step 3](/../../reference/e4s2sol) –** Add a Clean Step after your Join Step. Name this step 'Window Calculation'. Create a calculated field “Order Month” which truncates the “Order Date” to just be the Month / Year
 * **[Step 4](/../../reference/e4s2sol) –** Use the Visual Editor to create a 3-month Window Average of NPS called **3 Month Average NPS** over Order Month
 
     :::tip[Use the following window calculation selections]
