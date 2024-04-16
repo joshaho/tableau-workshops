@@ -36,5 +36,5 @@ In general, filters in the input step **perform better** when authoring since ag
 ### Create the Output
 
 * **[Step 5](/../../reference/e5s3sol) –** Add a new Output step at the end of your flow, 
-  * Save your output to a "Published Data Source" in the default location
+  * Save your output to a "Published Data Source" in the default location (In User Documents/My Tableau Repository/Datasources)
   * Name your output as `TopNPS_Orders_<Choose a Country>`
