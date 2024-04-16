@@ -2,6 +2,7 @@
 title: ✏️ Exercise 2 - Tidy Up - The Clean Step
 description: Next Level Data Preparation
 ---
+[![Skip](/images/skip.png)](#-instructions)
 ### 💡 Key Points
 
 * You can perform string cleaning functions, change your data types, change your date formats, rename, merge, split, remove characters, group, and so much more with the Clean Step.

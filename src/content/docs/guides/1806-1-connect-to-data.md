@@ -2,8 +2,8 @@
 title: ✏️ Exercise 1 - Connect to Data - The Input Step
 description: Next Level Data Preparation
 ---
-# 
 
+[![Skip](/images/skip.png)](#-instructions)
 ### 💡 Key Points
 
 * You can connect to a variety of on-prem and cloud-based data sources natively in Tableau Prep Builder using out-of-the-box connectors.

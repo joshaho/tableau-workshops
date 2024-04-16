@@ -2,6 +2,7 @@
 title: ✏️ Exercise 3 - Transform Data – Pivot & Join
 description: Next Level Data Preparation
 ---
+[![Skip](/images/skip.png)](#-instructions)
 ### 💡 Key Points
 
 * Pivoting your data allows you to change it from wide to long (columns to rows) or from long to wide (rows to columns) while performing aggregation.
