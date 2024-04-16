@@ -11,7 +11,7 @@ Thanks for attending 'Prepare to take your Prep to the next level!', our advance
 * After you’re done, please fill out our feedback survey! One of the best parts of the Tableau Community is how we can all learn from each other and improve.
 
 :::tip[Download the Exercise Files]
-Download the files for today's exercise [here](https://github.com/joshaho/tableau-workshops/raw/main/src/assets/files/1806-hot-prep-advanced.zip).
+Download the files for today's exercise [here](1806-hot-prep-advanced.zip).
 :::
 
 ## What is Tableau Prep Builder?
