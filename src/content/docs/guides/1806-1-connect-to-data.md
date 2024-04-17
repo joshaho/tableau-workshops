@@ -27,8 +27,8 @@ To get started:
 
 ## 📝 Instructions
 
-* **[Step 1](/../../reference/e1s1sol) –** Create **one** Input Step for Orders that unions all 3 of the orders files. Use File Filters and syntax matching to bring in only the Orders files and not the Shipping file for the Orders Input Step. The files are in a folder called *'Data Sources'* on the desktop of your machine. 
+* **<a href="/../../reference/e1s1sol" target="_blank">Step 1</a> –** Create **one** Input Step for Orders that unions all 3 of the orders files. Use File Filters and syntax matching to bring in only the Orders files and not the Shipping file for the Orders Input Step. The files are in a folder called *'Data Sources'* on the desktop of your machine. 
 
-* **[Step 2](/../../reference/e1s2sol) –** On the Orders Input Step, add a relative date filter to the Order Date field that brings in only the data from the year 2023.
+* **<a href="/../../reference/e1s2sol" target="_blank">Step 2</a> –** On the Orders Input Step, add a relative date filter to the Order Date field that brings in only the data from the year 2023.
 
-* **[Step 3](/../../reference/e1s3sol) –** Create an Input Step for the shipping file. You do not need to make any changes to this Input Step.
+* **<a href="/../../reference/e1s3sol" target="_blank">Step 3</a> –** Create an Input Step for the shipping file. You do not need to make any changes to this Input Step.

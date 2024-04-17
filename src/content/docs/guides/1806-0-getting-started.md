@@ -1,5 +1,5 @@
 ---
-title: Tableau Prep for Pros – Getting Started
+title: 🎬 Tableau Prep for Pros – Getting Started
 description: Next Level Data Preparation
 ---
 Thanks for attending 'Prepare to take your Prep to the next level!', our advanced Tableau Prep training session.
@@ -14,12 +14,17 @@ Thanks for attending 'Prepare to take your Prep to the next level!', our advance
 Download the files for today's exercise [here](/1806-hot-prep-advanced.zip).
 :::
 
-## What is Tableau Prep Builder?
+## ❔What is Tableau Prep Builder?
 
-Prep Builder provides a visual interface to connect to, clean, combine, and transform data from a variety of sources. Three coordinated views let you see row-level data, profiles of each column, and your entire data preparation process. With each action, you instantly see your data change, even on millions of rows of data. Once transformed, you can write your data out to local files or publish directly to Tableau Server. It’s easy to open your output with Tableau Desktop or share it with others via Tableau Server or Tableau Cloud, reducing friction and helping you bridge the gap between data preparation and analytics.
+* Prep Builder provides a **visual interface** to connect to, clean, combine, and transform data from a variety of sources. 
+* **Three coordinated views** let you see row-level data, profiles of each column, and your entire data preparation process. 
+* With each action, you **instantly see your data change**, even on millions of rows of data. 
+* Once transformed, you can write your data out to local files, publish directly to Tableau Server / Cloud, or write back to a Database. 
+
+It’s easy to open your Tableau Prep output with Tableau Desktop or share it with others via Tableau Server or Tableau Cloud, reducing friction and helping you bridge the gap between data preparation and analytics.
 
 
-## Your mission today
+## 📋 Your mission today
 
 * You are a member of Superstore's Analytics Team, which supports reporting across Superstore's Marketing, Finance, Sales, and Operations teams. Recently, Superstore's VP of Operations reached out to you with a new request for exploratory analysis.
 * Anecdotally, the Operations Team has seen an increase in shipping delays they're worried is starting to hurt customer happiness.
@@ -29,7 +34,7 @@ Prep Builder provides a visual interface to connect to, clean, combine, and tran
 * Your top priority as you explore and prep this data is to identify which customers are the least happy in each state/province. These are the customers the Operations team will proactively reach out to, so they need this data before the dashboard is built.
 * You'll keep the following "business" questions in mind to guide how you transform your data:
 
-    1. What is each customer's average [Net Promoter Score (NPS)](/../../reference/nps)?
+    1. What is each customer's average <a href="/../../reference/nps" target="_blank">Net Promoter Score (NPS)</a>?
     2. Which customers are our 'top influencers' and have exceptional Net Promoter Scores each month?
 
 * We will clean and restructure our data in exercises 1 through 3. We will directly answer these questions in exercise 4. In exercise 5, we will explore how you can use parameters to dynamically filter to answer these questions for a subset of your data.

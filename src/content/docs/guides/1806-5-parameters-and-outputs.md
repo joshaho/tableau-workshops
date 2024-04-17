@@ -23,9 +23,9 @@ After we create the parameter, we’ll need to backtrack in our flow and add a s
 
 ### Create and Apply Parameters
 
-* **[Step 1](/../../reference/e5s1sol) –** Create a parameter named ‘Choose a Country’ that allows users to pick between the United States or Canada. The data type will be string, and the allowable values should be stored in a list. The values will be 'United States' and 'Canada'. **Bonus –** add an 'All' value to the parameter as well.
+* **<a href="/../../reference/e5s1sol" target="_blank">Step 1</a> –** Create a parameter named ‘Choose a Country’ that allows users to pick between the United States or Canada. The data type will be string, and the allowable values should be stored in a list. The values will be 'United States' and 'Canada'. **Bonus –** add an 'All' value to the parameter as well.
 * **Step 2 –** Click on input step of our "shipping.csv" data source.
-* **[Step 3](/../../reference/e5s2sol) –** Click the Filter Values option at the top of the Profile Pane and add a filter logic that sets the Country/Region field equal to the Choose a Country field. **Bonus –** Create a logic calculation to take the 'All' value and output both countries.
+* **<a href="/../../reference/e5s2sol" target="_blank">Step 3</a> –** Click the Filter Values option at the top of the Profile Pane and add a filter logic that sets the Country/Region field equal to the Choose a Country field. **Bonus –** Create a logic calculation to take the 'All' value and output both countries.
 
 :::note[**🔥 HOT Tip 🔥 –**]
 In general, filters in the input step **perform better** when authoring since against a database, they will filter out our initial query. Filtering in step nodes have to pull in a larger sample prior to filtering.
@@ -35,6 +35,6 @@ In general, filters in the input step **perform better** when authoring since ag
 
 ### Create the Output
 
-* **[Step 5](/../../reference/e5s3sol) –** Add a new Output step at the end of your flow, 
+* **<a href="/../../reference/e5s3sol" target="_blank">Step 5</a>–** Add a new Output step at the end of your flow, 
   * Save your output to a "Published Data Source" in the default location (In User Documents/My Tableau Repository/Datasources)
   * Name your output as `TopNPS_Orders_<Choose a Country>`
