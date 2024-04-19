@@ -44,15 +44,7 @@ From there, you will join your Orders and Shipping data together into one unifie
 * **<a href="/../../reference/e3s1sol" target="_blank">Step 2</a> –** Pivot the two values in the Shipping Status field (Ordered and Shipped) from **rows** to **columns** and select the Date field as the one to aggregate in the corresponding new columns.
 * **<a href="/../../reference/e3s1sol" target="_blank">Step 3</a> –** Change the aggregation being performed on the Date field so that it shows an actual date instead of a count of the dates.
 
-### Exercise 3b – Identifying Duplicate Rows prior to Joining
-
-* **<a href="/../../reference/e3s2sol" target="_blank">Step 1</a> –** Create a Clean step after your Pivot Step
-* **<a href="/../../reference/e3s2sol" target="_blank">Step 2</a> –** Click the 'Identify Duplicate Rows' Option to generate a calculated field
-* **<a href="/../../reference/e3s2sol" target="_blank">Step 3</a> –** Modify your calculated field to exclude 'City' and 'Days to Ship Scheduled'
-* **<a href="/../../reference/e3s2sol" target="_blank">Step 4</a> –** Filter your data to exclude 'Duplicate' rows based on your 'Is Duplicate Row?' column
-* **<a href="/../../reference/e3s2sol" target="_blank">Step 5</a> –** Remove the 'Is Duplicate Row?' Column to clean up your dataset
-
-### Exercise 3c – Joining Orders with Shipping Data
+### Exercise 3b – Joining Orders with Shipping Data
 
 * **<a href="/../../reference/e3s3sol" target="_blank">Step 1</a>–** Inner Join the Orders to the Shipping data by clicking on the Orders Clean Step, dragging and hovering it over the Shipping Pivot step, and dropping it onto the ‘Join’ box when it appears. Your join will be done on the Order ID field.
 

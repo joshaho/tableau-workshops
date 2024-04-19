@@ -1,5 +1,5 @@
 ---
-title: Exercise 4 – Conduct Analysis – Calculated Fields and Analytic Functions
+title: ✏️ Exercise 4 – Conduct Analysis – Calculated Fields and Analytic Functions
 description: Next Level Data Preparation
 ---
 [![Skip](/images/skip.png)](#-instructions)
@@ -48,5 +48,5 @@ Why do this in Prep? By doing Table and Window calculations before you get to Ta
 * **<a href="/../../reference/e4s3sol" target="_blank">Step 5</a> –** Create a calculated field called 'Top Influencer' to determine if a customer's NPS is greater than the '3 Month Average NPS'. The calculation should return 'Top Influencer' if they meet this condition, else should return NULL.
 
     :::tip[Calculation Logic]
-    IF [NPS] > [3 Month Average NPS] THEN 'Top Influencer' ELSE NULL END
+    IF [NPS] > [3 Month Average NPS] THEN 'Top Influencer' END
     :::

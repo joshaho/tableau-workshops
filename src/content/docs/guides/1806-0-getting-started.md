@@ -6,7 +6,7 @@ Thanks for attending 'Prepare to take your Prep to the next level!', our advance
 
 
 * We will be exploring how you can take your data preparation up a level using Tableau Prep Builder. This is designed as an advanced level session, so you should have some familiarity with Prep Builder and its basic features.
-* The goal is for us to build one flow together through a series of 5 exercises, but don't fret if you get out of sync! On your VM desktop there is a folder called 'Exercise Answers' that contains versions of the flow updated with the completed steps for each exercise. You can use these to get caught up if needed, but please try to follow along.
+* The goal is for us to build one flow together through a series of 5 exercises, but don't fret if you get out of sync! On your VM desktop there is a folder called 'Solutions' that contains versions of the flow updated with the completed steps for each exercise. You can use these to get caught up if needed, but please try to follow along.
 * If you have any questions during the session, raise your hand, and a volunteer will come and assist you
 * After you’re done, please fill out our feedback survey! One of the best parts of the Tableau Community is how we can all learn from each other and improve.
 

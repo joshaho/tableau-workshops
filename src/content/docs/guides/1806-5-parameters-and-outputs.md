@@ -1,5 +1,5 @@
 ---
-title: Exercise 5 - Create Parameters and Output
+title: ✏️ Exercise 5 - Create Parameters and Output
 description: Next Level Data Preparation
 ---
 [![Skip](/images/skip.png)](#-instructions)

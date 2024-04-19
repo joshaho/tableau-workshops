@@ -20,12 +20,12 @@ Now that you’ve brought data into the flow, you need to clean it before you ca
 Please follow these steps for Exercise 2:
 
 * **<a href="/../../reference/e2s1sol" target="_blank">Step 1</a> –** Add a Clean Step after the Orders Input step.
-
 * **<a href="/../../reference/e2s2sol" target="_blank">Step 2</a> –** On the Orders Clean Step, remove the question marks (?) and exclamation points (!) from values in the Sub-Category field by using the Remove Punctuation option.
-
-* **<a href="/../../reference/e2s1sol" target="_blank">Step 3</a> –** Add a Clean Step after the Shipping Input Step.
-
-* **<a href="/../../reference/e2s4sol" target="_blank">Step 4</a> –** On the Shipping Clean Step, group the Shipping Status field by Spelling to correct the rows where Ordered and Shipped are misspelled.
+* **<a href="/../../reference/e3s2sol" target="_blank">Step 3</a> –** Click the 'Identify Duplicate Rows' Option to generate a calculated field
+* **Step 5 –** Filter your data to exclude 'Duplicate' rows based on your 'Is Duplicate Row?' column
+* **Step 6 –** Remove the 'Is Duplicate Row?' Column to clean up your dataset
+* **<a href="/../../reference/e2s1sol" target="_blank">Step 7</a> –** Add a Clean Step after the Shipping Input Step.
+* **<a href="/../../reference/e2s4sol" target="_blank">Step 8</a> –** On the Shipping Clean Step, group the Shipping Status field by Spelling to correct the rows where Ordered and Shipped are misspelled.
 
 :::note[**🔥 HOT Tip 🔥**]
 Be kind to your future self; Prep lets you leave notes and descriptions on each of the steps in the flow, *and* on each change within a single step so you can look back later.
