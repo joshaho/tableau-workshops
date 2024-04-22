@@ -1,6 +1,6 @@
 ---
-title: Create a calculated field
+title: Create a window calculation field
 description: Exercise 4c Solution
 ---
 
-[![Window calculation](/gifs/4.4-NPS.gif)](/gifs/4.4-NPS.gif)
+[![Window calculation](/gifs/4.4.gif)](/gifs/4.4.gif)

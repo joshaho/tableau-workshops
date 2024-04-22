@@ -25,8 +25,8 @@ Why do this in Prep? By doing Table and Window calculations before you get to Ta
 
 ## 📝 Instructions
 
-* **<a href="/../../reference/e4s1sol" target="_blank">Step 1</a> –** Add a Clean Step after your Join Step. Name this step 'Table Calculation'.
-* **<a href="/../../reference/e4s1sol" target="_blank">Step 2</a> –** Use the Visual Editor to create a Running Sum of each Sales Segment over Order Date 
+* **<a href="/../../reference/e4s1sol#insert-clean-step" target="_blank">Step 1</a> –** Add a Clean Step after your Join Step. Name this step 'Table Calculation'.
+* **<a href="/../../reference/e4s1sol#create-table-calculation" target="_blank">Step 2</a> –** Use the Visual Editor to create a Running Sum of each Sales Segment over Order Date 
 
     :::tip[Use the following table calculation selections]
     * Group by the 'Segment',

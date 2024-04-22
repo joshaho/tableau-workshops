@@ -4,7 +4,7 @@ description: Exercise 5b Solution
 ---
 ## Solution Walkthrough
 
-[![Parameter Bonus](/gifs/5.2-filter.gif)](/gifs/5.2-filter.gif)
+[![Parameter Bonus](/gifs/5.3.gif)](/gifs/5.3.gif)
 
 ## Calculation Logic
 

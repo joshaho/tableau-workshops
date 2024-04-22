@@ -22,10 +22,10 @@ Please follow these steps for Exercise 2:
 * **<a href="/../../reference/e2s1sol" target="_blank">Step 1</a> –** Add a Clean Step after the Orders Input step.
 * **<a href="/../../reference/e2s2sol" target="_blank">Step 2</a> –** On the Orders Clean Step, remove the question marks (?) and exclamation points (!) from values in the Sub-Category field by using the Remove Punctuation option.
 * **<a href="/../../reference/e3s2sol" target="_blank">Step 3</a> –** Click the 'Identify Duplicate Rows' Option to generate a calculated field
-* **Step 5 –** Filter your data to exclude 'Duplicate' rows based on your 'Is Duplicate Row?' column
-* **Step 6 –** Remove the 'Is Duplicate Row?' Column to clean up your dataset
-* **<a href="/../../reference/e2s1sol" target="_blank">Step 7</a> –** Add a Clean Step after the Shipping Input Step.
-* **<a href="/../../reference/e2s4sol" target="_blank">Step 8</a> –** On the Shipping Clean Step, group the Shipping Status field by Spelling to correct the rows where Ordered and Shipped are misspelled.
+* **Step 4 –** Filter your data to exclude 'Duplicate' rows based on your 'Is Duplicate Row?' column
+* **Step 5 –** Remove the 'Is Duplicate Row?' Column to clean up your dataset
+* **<a href="/../../reference/e2s1sol" target="_blank">Step 6</a> –** Add a Clean Step after the Shipping Input Step.
+* **<a href="/../../reference/e2s4sol" target="_blank">Step 7</a> –** On the Shipping Clean Step, group the Shipping Status field by Spelling to correct the rows where Ordered and Shipped are misspelled.
 
 :::note[**🔥 HOT Tip 🔥**]
 Be kind to your future self; Prep lets you leave notes and descriptions on each of the steps in the flow, *and* on each change within a single step so you can look back later.
@@ -35,7 +35,7 @@ Be kind to your future self; Prep lets you leave notes and descriptions on each 
 
 Try out a few other cleaning functions:
 
-* Use the ‘Split Values’ cleaning function on the ‘Product ID’ field to test out splitting on a delimiter.
-* Use the ‘Make Uppercase’ option to make all three values in the ‘Segment’ field uppercase (found by going to More Options […] and then choosing ‘Clean’).
-* Expand the Changes Pane and click on the Pencil icon next to each of these cleaning functions to examine the calculation Prep automatically writes for you.
+* Use the <a href="/gifs/2.B1.gif" target="_blank">‘Split Values’</a> cleaning function on the ‘Product ID’ field to test out splitting on a delimiter.
+* Use the <a href="/gifs/2.B2.gif" target="_blank">‘Make Uppercase’</a> option to make all three values in the ‘Segment’ field uppercase (found by going to More Options […] and then choosing ‘Clean’).
+* Expand the <a href="/gifs/2.B3.gif" target="_blank">‘Changes Pane’</a> and click on the Pencil icon next to each of these cleaning functions to examine the calculation Prep automatically writes for you.
 * Remember that you can also undo these functions by expanding the Changes Pane and clicking on the ‘x’ next to each of these functions.

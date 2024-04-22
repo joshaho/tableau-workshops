@@ -41,8 +41,8 @@ From there, you will join your Orders and Shipping data together into one unifie
 ### Exercise 3a - Pivoting Rows to Columns
 
 * **<a href="/../../reference/e3s1sol" target="_blank">Step 1</a> –** Add a Pivot Step after the Shipping Clean Step.
-* **<a href="/../../reference/e3s1sol" target="_blank">Step 2</a> –** Pivot the two values in the Shipping Status field (Ordered and Shipped) from **rows** to **columns** and select the Date field as the one to aggregate in the corresponding new columns.
-* **<a href="/../../reference/e3s1sol" target="_blank">Step 3</a> –** Change the aggregation being performed on the Date field so that it shows an actual date instead of a count of the dates.
+* **<a href="/../../reference/e3s1sol#select-fields-for-rows-to-columns" target="_blank">Step 2</a> –** Pivot the two values in the Shipping Status field (Ordered and Shipped) from **rows** to **columns** and select the Date field as the one to aggregate in the corresponding new columns.
+* **<a href="/../../reference/e3s1sol#aggregate-date-field" target="_blank">Step 3</a> –** Change the aggregation being performed on the Date field so that it shows an actual date instead of a count of the dates.
 
 ### Exercise 3b – Joining Orders with Shipping Data
 
