@@ -3,7 +3,7 @@ title: Create a parameter
 description: Exercise 5a Solution
 ---
 
-[![Parameter](/gifs/5.1.gif)](/gifs/5.1-.gif)
+[![Parameter](/gifs/5.1.gif)](/gifs/5.1.gif)
 
 ## Adding 'All'
 
