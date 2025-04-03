@@ -20,7 +20,8 @@ export default defineConfig({
 						{ label: '2. Cleaning Data', link: '/guides/1931-2-cleaning-data/' },
 						{ label: '3. Transform Data', link: '/guides/1931-3-transform-data/' },
 						{ label: '4. Calculated Fields', link: '/guides/1931-4-calculated-fields/' },
-						{ label: '5. Parameters and Output', link: '/guides/1931-5-parameters-and-outputs/' },
+						{ label: '5. Flagging Orders with Free-Text', link: '/guides/1931-5-flagging-orders/' },
+						{ label: '6. Parameters and Output', link: '/guides/1931-6-parameters-and-outputs/' },
 					],
 				},
 				{
