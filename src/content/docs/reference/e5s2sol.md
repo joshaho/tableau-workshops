@@ -1,13 +1,11 @@
 ---
-title: Filtering based on Parameters
+title: Split columns by space
 description: Exercise 5b Solution
 ---
-## Solution Walkthrough
 
-[![Parameter Bonus](/gifs/5.3.gif)](/gifs/5.3.gif)
 
-## Calculation Logic
+[![Cleaning](/gifs/5.2a.gif)](/gifs/5.2a.gif)
 
-:::tip[(Bonus) Calculation Logic]
-IF [Country/Region] = [Choose a Country] OR [Choose a Country] = 'All' THEN TRUE ELSE FALSE END
-:::
+## Adding 'All'
+
+[![Splitting](/gifs/5.2b.gif)](/gifs/5.2b.gif)

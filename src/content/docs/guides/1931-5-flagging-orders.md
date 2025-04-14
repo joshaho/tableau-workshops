@@ -19,9 +19,7 @@ description: Next Level Data Preparation
 In this task, you'll search through a set of free-text reviews for multiple keywords; first we'll import a new set of data, and then we'll manipulate the data to get it into the proper form to analyse. After, we'll join the data back into the overall dataset so it's ready for future parameterization
 
 :::note[**🔥 HOT Tip 🔥**]
-Why do this in Prep? By doing Table and Window calculations before you get to Tableau Desktop, you can
-* Improve performance so that Tableau doesn't have to do calculations on the fly.
-* Bump calculations up in the [Order of Operations](https://help.tableau.com/current/pro/desktop/en-us/order_of_operations.htm) making them available as filter values
+Why do this in Prep? Things like wildcard pivots aren't native in Tableau Desktop.
 :::
 
 ## 📝 Instructions

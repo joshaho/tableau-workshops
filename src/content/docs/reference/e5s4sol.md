@@ -1,5 +1,5 @@
 ---
-title: do a wildcard pivot
+title: clean formatting of text feels
 description: Exercise 5c Solution
 ---
 
